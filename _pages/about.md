@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergrad in the School of Computer Science and Technology, South China University of Technology. I am honored to be advised by [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ), and fortunate to work closely with [Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=en) and Hongshu Guo. We co-founded [GMC-DRL](https://gmc-drl.github.io/) research team aiming to make further exploration in Meta-Black-Box optimization.
+I am currently a senior undergrad student in the School of Computer Science and Technology, South China University of Technology. I am honored to be advised by [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ), and fortunate to work closely with [Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=en) and Hongshu Guo. We co-founded [GMC-DRL](https://gmc-drl.github.io/) research team aiming to make further exploration in Meta-Black-Box optimization.
 
 I was an [SURF](https://www.sfp.caltech.edu/undergraduate-research/programs/surf) fellow in [Computing + Mathematical Sciences (CMS)](https://www.cms.caltech.edu/) Department at Caltech, where I am honored to be advised by [Prof. Yisong Yue](http://www.yisongyue.com/) and [Dr. Kaiyu Yang](https://yangky11.github.io/) and work on AI4Math research project.
 
@@ -37,7 +37,7 @@ My research interest includes two main directions.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/overview-metabox.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning](https://neurips.cc/virtual/2023/poster/73497)
+[MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning](https://neurips.cc/virtual/2023/poster/73497) (Neurips 2023 Oral)
 
 Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, Yining Ma, and Zhiguang Cao.
 
@@ -51,7 +51,7 @@ Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Zhenrui Li, Guojun Peng, Yue-Jiao Gon
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/overview-symbol.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning](https://iclr.cc/virtual/2024/poster/17539)
+[SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning](https://iclr.cc/virtual/2024/poster/17539) (ICLR 2024)
 
 **Jiacheng Chen**\*, Zeyuan Ma\*, Hongshu Guo, Yining Ma, Jie Zhang, Yue-Jiao Gong.
 
@@ -64,7 +64,7 @@ Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Zhenrui Li, Guojun Peng, Yue-Jiao Gon
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GECCO 2024</div><img src='images/overview-gleet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning](https://arxiv.org/abs/2404.08239)
+[Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning](https://arxiv.org/abs/2404.08239) (GECCO 2024)
 
 Zeyuan Ma\*, **Jiacheng Chen**\*, Hongshu Guo, Yining Ma, Yue-Jiao Gong.
 
@@ -107,12 +107,34 @@ Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Guojun Peng, Zhiguang Cao, Yining Ma,
 - *2021 - 2022*, China National Scholarship. 
 
 # 📖 Educations
-- *2021.09 - present*, School of Computer Science and Technology, South China University of Technology.
+<!-- - *2021.09 - present*, School of Computer Science and Technology, South China University of Technology. -->
 
+<div class='school-box'> 
+<div class='school-box-text' markdown="1">
+- *2021.09 - present*, School of Computer Science and Technology, South China University of Technology.
+</div>
+<div class='school-box-image'><div><img src='images/scut.jpg' alt="sym" width="100%"></div></div>
+</div>
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Research Experience
+
+<div class='school-box'> 
+<div class='school-box-text' markdown="1">
 - *2024.06 - 2024.08*, SURF, Caltech.
+  - *Thesis: AI for Math.*
+  - *Advisor: [Prof. Yisong Yue](http://www.yisongyue.com/) and [Dr. Kaiyu Yang](https://yangky11.github.io/).*
+</div>
+<div class='school-box-image'><div><img src='images/caltech.png' alt="sym" width="100%"></div></div>
+</div>
+
+<div class='school-box'> 
+<div class='school-box-text' markdown="1">
 - *2022-03 - 2023.03*, SRP, SCUT.
+  - *Thesis: Meta Black Box Optimization.*
+  - *Advisor: [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ)*
+</div>
+<div class='school-box-image'><div><img src='images/scut.jpg' alt="sym" width="100%"></div></div>
+</div>

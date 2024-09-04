@@ -107,3 +107,51 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.school-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+    .school-box-text{
+        max-width: 100%;
+        order: 2;
+    }
+
+    .school-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 1;
+        img {
+            max-width: 400px;
+            // box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    @include breakpoint($medium) {
+        .school-box-image{
+            justify-content: right;
+            padding-left: 5em;
+            min-width: 150px;
+            max-width: 10%;
+            order: 2;
+        }
+        
+        .school-box-text{
+            justify-content: left;
+            // padding-left: 2em;
+            min-width: 80%;
+            max-width: 90%;
+            order: 1;
+        }
+
+    }
+
+
+}
