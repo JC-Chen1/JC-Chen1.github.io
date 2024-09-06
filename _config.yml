@@ -24,12 +24,12 @@ author:
   name             : "Jiacheng Chen"
   avatar           : "images/jiacheng-512x512.png"
   bio              : "B.S. @ SCUT"
-  location         : "Guangzhou, China"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=knvJGuQAAAAJ"
   email            : "jackchan9345@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Jiacheng-Chen-18"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :  "Jiacheng_c"
+  twitter          :  
   vine             :
   weibo            :
   xing             :
