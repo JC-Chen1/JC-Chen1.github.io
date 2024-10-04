@@ -27,7 +27,6 @@ My research interest includes two main directions.
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Hello World!
 - *2024.05*: &nbsp;🎉🎉 [SYMBOL](https://iclr.cc/virtual/2024/poster/17539) will be presented in ICLR 2024 as a poster!
 - *2023.12*: &nbsp;🎉🎉 [MetaBox](https://neurips.cc/virtual/2023/poster/73497) will be presented in Neurips 2023 as the oral presentation!
 
@@ -104,6 +103,7 @@ Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Guojun Peng, Zhiguang Cao, Yining Ma,
 
 # 🎖 Honors and Awards
 - *2024*, Caltech Summer Undergraduate Research Fellowship (SURF).
+- *2023 - 2024*, China National Scholarship. 
 - *2021 - 2022*, China National Scholarship. 
 
 # 📖 Educations
