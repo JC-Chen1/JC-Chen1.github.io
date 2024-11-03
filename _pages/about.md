@@ -22,8 +22,9 @@ I am currently a senior undergrad student in the School of Computer Science and 
 I was an [SURF](https://www.sfp.caltech.edu/undergraduate-research/programs/surf) fellow in [Computing + Mathematical Sciences (CMS)](https://www.cms.caltech.edu/) Department at Caltech, where I am honored to be advised by [Prof. Yisong Yue](http://www.yisongyue.com/) and [Dr. Kaiyu Yang](https://yangky11.github.io/) and work on AI4Math research project.
 
 My research interest includes two main directions.
-- **Meta-Black-Box optimization** (Decision making process under uncertainty).  Meta-Black-Box optimization is generally to mitigates the labour-intensive development in traditional black-box optimization algorithms through meta-learning. (e.g. leverage learning-based methods to automatically deside the most suitable configuration of some black-box optimization algorithms.) The decision making process in Meta-Black-Box optimization is under uncertainty due to the intrinsic randomness in black-box optimization.
 - **Formal Theorem Proving** (Decision making process under certainty). Compared to informal one, formal theorem proving usually use proof assistants such as Coq, Isabelle, and Lean. The correctness of formal proofs can be conveniently verified by these proof assitants. Thereforce, decision making process in formal theorem proving allows no mistakes to reach the goal.
+- **Meta-Black-Box optimization** (Decision making process under uncertainty).  Meta-Black-Box optimization is generally to mitigates the labour-intensive development in traditional black-box optimization algorithms through meta-learning. (e.g. leverage learning-based methods to automatically deside the most suitable configuration of some black-box optimization algorithms.) The decision making process in Meta-Black-Box optimization is under uncertainty due to the intrinsic randomness in black-box optimization.
+
 
 
 # 🔥 News
@@ -32,18 +33,15 @@ My research interest includes two main directions.
 
 # 📝 Publications 
 
-<!-- MetaBox -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/overview-metabox.png' alt="sym" width="100%"></div></div>
+<!-- RiR -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop MATH-AI</div><img src='images/overview-rir.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning](https://neurips.cc/virtual/2023/poster/73497) (Neurips 2023 Oral)
+[Reasoning in Reasoning: A Hierarchical Framework for Neural Theorem Proving](https://openreview.net/pdf?id=H5hePMXKht) (NeurIPS 2024 Workshop MATH-AI)
 
-Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, Yining Ma, and Zhiguang Cao.
+Ziyu Ye, **Jiacheng Chen**, Jonathan Light, Yifei Wang, Jiankai Sun, Mac Schwager, Philip Torr, Guohao Li, Yuxin Chen, Kaiyu Yang, Yisong Yue, Ziniu Hu.
 
 
-
-[**Project**](https://github.com/GMC-DRL/MetaBox) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We released a benchmark platform for Meta-Black-Box Optimization named MetaBox. We integrate three different testsuits, about 20 baselines including traditional black-box methods and Meta-Black-Box methods, and new evaluation metrics tailored for Meta-Black-Box optimization. The codebase can be found here. 
 </div>
 </div>
 
@@ -59,6 +57,22 @@ Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Zhenrui Li, Guojun Peng, Yue-Jiao Gon
 
 </div>
 </div>
+
+<!-- MetaBox -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/overview-metabox.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning](https://neurips.cc/virtual/2023/poster/73497) (Neurips 2023 Oral)
+
+Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, Yining Ma, Zhiguang Cao.
+
+
+
+[**Project**](https://github.com/GMC-DRL/MetaBox) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We released a benchmark platform for Meta-Black-Box Optimization named MetaBox. We integrate three different testsuits, about 20 baselines including traditional black-box methods and Meta-Black-Box methods, and new evaluation metrics tailored for Meta-Black-Box optimization. The codebase can be found here. 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GECCO 2024</div><img src='images/overview-gleet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
