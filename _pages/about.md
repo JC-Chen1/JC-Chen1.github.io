@@ -58,6 +58,19 @@ Ziyu Ye, **Jiacheng Chen**, Jonathan Light, Yifei Wang, Jiankai Sun, Mac Schwage
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview-llamoco.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation](https://arxiv.org/abs/2403.01131)
+
+Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Guojun Peng, Zhiguang Cao, Yining Ma, Yue-Jiao Gong.
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- We propose to fine-tune language model to generate executable code that can be used for optimization tasks. We proposed a dataset that containing diversed optimization problems and corresponding algorithm in this paper, also leverage some tricks during training process and finally provided a fine-tuned LM for optimization tasks.
+
+</div>
+</div>
+
 <!-- MetaBox -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/overview-metabox.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,19 +87,6 @@ Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Zhenrui Li, Guojun Peng, Yue-Jiao Gon
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GECCO 2024</div><img src='images/overview-gleet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning](https://arxiv.org/abs/2404.08239) (GECCO 2024)
-
-Zeyuan Ma\*, **Jiacheng Chen**\*, Hongshu Guo, Yining Ma, Yue-Jiao Gong.
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We explore about how to make a trade-off between exploration and exploitation in Black-Box optimization through learn-based method. In this work, we carefully designed a framework which is based on transfromer-based model and leverage exploration-exploitation related feature tailored for black-box optimization scenario to resolve this problem.
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview-neurela.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -100,15 +100,15 @@ Zeyuan Ma, **Jiacheng Chen**, Hongshu Guo, Yue-Jiao Gong.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview-llamoco.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GECCO 2024</div><img src='images/overview-gleet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation](https://arxiv.org/abs/2403.01131)
+[Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning](https://arxiv.org/abs/2404.08239) (GECCO 2024)
 
-Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Guojun Peng, Zhiguang Cao, Yining Ma, Yue-Jiao Gong.
+Zeyuan Ma\*, **Jiacheng Chen**\*, Hongshu Guo, Yining Ma, Yue-Jiao Gong.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We propose to fine-tune language model to generate executable code that can be used for optimization tasks. We proposed a dataset that containing diversed optimization problems and corresponding algorithm in this paper, also leverage some tricks during training process and finally provided a fine-tuned LM for optimization tasks.
+- We explore about how to make a trade-off between exploration and exploitation in Black-Box optimization through learn-based method. In this work, we carefully designed a framework which is based on transfromer-based model and leverage exploration-exploitation related feature tailored for black-box optimization scenario to resolve this problem.
 
 </div>
 </div>
