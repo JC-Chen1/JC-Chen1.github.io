@@ -17,6 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Jiacheng Chen
+
+Welcome!
+
 I am currently a senior undergrad student in the School of Computer Science and Technology, South China University of Technology. I am honored to be advised by [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ), and fortunate to work closely with [Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=en) and Hongshu Guo. We co-founded [GMC-DRL](https://gmc-drl.github.io/) research team aiming to make further exploration in Meta-Black-Box optimization.
 
 I was an [SURF](https://www.sfp.caltech.edu/undergraduate-research/programs/surf) fellow in [Computing + Mathematical Sciences (CMS)](https://www.cms.caltech.edu/) Department at Caltech, where I am honored to be advised by [Prof. Yisong Yue](http://www.yisongyue.com/) and [Dr. Kaiyu Yang](https://yangky11.github.io/) and work on AI4Math research project.
@@ -25,7 +29,7 @@ My research interest includes two main directions.
 - **Formal Theorem Proving** (Decision making process under certainty). Compared to informal one, formal theorem proving usually use proof assistants such as Coq, Isabelle, and Lean. The correctness of formal proofs can be conveniently verified by these proof assitants. Thereforce, decision making process in formal theorem proving allows no mistakes to reach the goal.
 - **Meta-Black-Box optimization** (Decision making process under uncertainty).  Meta-Black-Box optimization is generally to mitigates the labour-intensive development in traditional black-box optimization algorithms through meta-learning. (e.g. leverage learning-based methods to automatically deside the most suitable configuration of some black-box optimization algorithms.) The decision making process in Meta-Black-Box optimization is under uncertainty due to the intrinsic randomness in black-box optimization.
 
-
+<span style="color:red;">I am actively applying for PhD programs starting 2025 Fall! </span>
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 [SYMBOL](https://iclr.cc/virtual/2024/poster/17539) will be presented in ICLR 2024 as a poster!
