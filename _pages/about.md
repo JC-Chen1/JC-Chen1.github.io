@@ -29,8 +29,6 @@ My research interests include，
 - **AI for Math (Formal Theorem Proving; Reasoning; ...)** 
 - **Neuro-Symbolic**
 - **Learning to Optimize**
-<!-- - **Formal Theorem Proving** (Decision making process under certainty). Compared to informal one, formal theorem proving usually use proof assistants such as Coq, Isabelle, and Lean. The correctness of formal proofs can be conveniently verified by these proof assitants. Thereforce, decision making process in formal theorem proving allows no mistakes to reach the goal.
-- **Meta-Black-Box optimization** (Decision making process under uncertainty).  Meta-Black-Box optimization is generally to mitigates the labour-intensive development in traditional black-box optimization algorithms through meta-learning. (e.g. leverage learning-based methods to automatically deside the most suitable configuration of some black-box optimization algorithms.) The decision making process in Meta-Black-Box optimization is under uncertainty due to the intrinsic randomness in black-box optimization. -->
 
 <span style="color:red;">I am actively applying for PhD programs starting 2025 Fall! </span>
 
