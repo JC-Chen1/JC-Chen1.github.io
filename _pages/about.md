@@ -27,7 +27,7 @@ I was an [SURF](https://www.sfp.caltech.edu/undergraduate-research/programs/surf
 
 My research interests include，
 - **AI for Math (Formal Theorem Proving; Reasoning; ...)** 
-- **Neuro-Symbolic**
+- **Neuro-Symbolic AI**
 - **Learning to Optimize**
 
 <span style="color:red;">I am actively applying for PhD programs starting 2025 Fall! </span>
@@ -118,7 +118,7 @@ Zeyuan Ma\*, **Jiacheng Chen**\*, Hongshu Guo, Yining Ma, Yue-Jiao Gong.
 </div>
 </div>
 
-- [ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning](https://arxiv.org/pdf/2412.07507), Hongshu Guo*, Zeyuan Ma*, **Jiacheng Chen**, Yining Ma,Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong, **AAAI 2025**
+- [ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning](https://arxiv.org/pdf/2412.07507), Hongshu Guo\*, Zeyuan Ma\*, **Jiacheng Chen**, Yining Ma,Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong, **AAAI 2025**
 - [Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution](https://arxiv.org/abs/2403.02131), Hongshu Guo, Yining Ma, Zeyuan Ma, **Jiacheng Chen**, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong, **GECCO 2024**
 
 # 🎖 Honors and Awards
