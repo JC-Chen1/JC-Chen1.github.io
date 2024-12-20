@@ -118,6 +118,7 @@ Zeyuan Ma\*, **Jiacheng Chen**\*, Hongshu Guo, Yining Ma, Yue-Jiao Gong.
 </div>
 </div>
 
+- [ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning](https://arxiv.org/pdf/2412.07507), Hongshu Guo*, Zeyuan Ma*, **Jiacheng Chen**, Yining Ma,Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong, **AAAI 2025**
 - [Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution](https://arxiv.org/abs/2403.02131), Hongshu Guo, Yining Ma, Zeyuan Ma, **Jiacheng Chen**, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong, **GECCO 2024**
 
 # 🎖 Honors and Awards
