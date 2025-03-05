@@ -30,7 +30,6 @@ My research interests include，
 - **Neuro-Symbolic AI**
 - **Learning to Optimize**
 
-<span style="color:red;">I am actively applying for PhD programs starting 2025 Fall! </span>
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 [SYMBOL](https://iclr.cc/virtual/2024/poster/17539) will be presented in ICLR 2024 as a poster!
