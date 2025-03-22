@@ -122,8 +122,7 @@ Zeyuan Ma\*, **Jiacheng Chen**\*, Hongshu Guo, Yining Ma, Yue-Jiao Gong.
 
 # 🎖 Honors and Awards
 - *2024*, Caltech Summer Undergraduate Research Fellowship (SURF).
-- *2023 - 2024*, China National Scholarship. 
-- *2021 - 2022*, China National Scholarship. 
+
 
 # 📖 Educations
 <!-- - *2021.09 - present*, School of Computer Science and Technology, South China University of Technology. -->
