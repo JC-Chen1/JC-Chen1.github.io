@@ -104,10 +104,10 @@ Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Zhenrui Li, Guojun Peng, Yue-Jiao Gon
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview-neurela.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/overview-neurela.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Neural Exploratory Landscape Analysis](https://www.arxiv.org/abs/2408.10672)
+[Neural Exploratory Landscape Analysis](https://www.arxiv.org/abs/2408.10672) (ICLR 2025)
 
 Zeyuan Ma, **Jiacheng Chen**, Hongshu Guo, Yue-Jiao Gong.
 
@@ -130,7 +130,7 @@ Zeyuan Ma\*, **Jiacheng Chen**\*, Hongshu Guo, Yining Ma, Yue-Jiao Gong.
 </div>
 </div>
 
-- [ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning](https://arxiv.org/pdf/2412.07507), Hongshu Guo\*, Zeyuan Ma\*, **Jiacheng Chen**, Yining Ma,Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong, **AAAI 2025**
+- [ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning](https://arxiv.org/pdf/2412.07507), Hongshu Guo\*, Zeyuan Ma\*, **Jiacheng Chen**, Yining Ma,Zhiguang Cao, Xinglin Zhang, Yue-Jiao Gong, **AAAI 2025** (Oral)
 - [Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution](https://arxiv.org/abs/2403.02131), Hongshu Guo, Yining Ma, Zeyuan Ma, **Jiacheng Chen**, Xinglin Zhang, Zhiguang Cao, Jun Zhang, Yue-Jiao Gong, **GECCO 2024**
 
 # 🎖 Honors and Awards
