@@ -21,21 +21,33 @@ redirect_from:
 
 Welcome!
 
-I am currently a senior undergrad student in the School of Computer Science and Technology, South China University of Technology. I am honored to be advised by [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ), and fortunate to work closely with [Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=en) and Hongshu Guo. We co-founded [GMC-DRL](https://gmc-drl.github.io/) research team aiming to make further exploration in Meta-Black-Box optimization.
+I am currently a senior undergrad student in the School of Computer Science and Technology, South China University of Technology. I am honored to be advised by [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ), and fortunate to work closely with [Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=en) and Hongshu Guo. We co-founded [MetaEvo](https://metaevo.github.io/) research team aiming to make further exploration in Meta-Black-Box optimization.
 
 I was an [SURF](https://www.sfp.caltech.edu/undergraduate-research/programs/surf) fellow in [Computing + Mathematical Sciences (CMS)](https://www.cms.caltech.edu/) Department at Caltech, where I am honored to be advised by [Prof. Yisong Yue](http://www.yisongyue.com/) and [Dr. Kaiyu Yang](https://yangky11.github.io/) and work on AI4Math research project.
 
 My research interests include，
 - **AI for Math (Formal Theorem Proving; Reasoning; ...)** 
-- **Neuro-Symbolic AI**
+- **Reinforcement Learning**
 - **Learning to Optimize**
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Our paper [Entropy Mechanism of Reinforcement Learning for Large Language Model Reasoning](https://arxiv.org/pdf/2505.22617) has released!
 - *2024.05*: &nbsp;🎉🎉 [SYMBOL](https://iclr.cc/virtual/2024/poster/17539) will be presented in ICLR 2024 as a poster!
 - *2023.12*: &nbsp;🎉🎉 [MetaBox](https://neurips.cc/virtual/2023/poster/73497) will be presented in Neurips 2023 as the oral presentation!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/entropy-overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/pdf/2505.22617)
+
+Ganqu Cui*, Yuchen Zhang*, **Jiacheng Chen***, Lifan Yuan, Zhi Wang, Yuxin Zuo, Haozhan Li, Yuchen Fan, Huayu Chen, Weize Chen, Zhiyuan Liu, Hao Peng, Lei Bai, Wanli Ouyang, Yu Cheng, Bowen Zhou, Ning Ding.
+
+
+</div>
+</div>
 
 <!-- RiR -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop MATH-AI</div><img src='images/overview-rir.png' alt="sym" width="100%"></div></div>
