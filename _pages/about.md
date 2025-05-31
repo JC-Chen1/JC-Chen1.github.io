@@ -21,7 +21,7 @@ redirect_from:
 
 Welcome!
 
-I am currently a senior undergrad student in the School of Computer Science and Technology, South China University of Technology. I am honored to be advised by [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ), and fortunate to work closely with [Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=en) and Hongshu Guo. We co-founded [MetaEvo](https://metaevo.github.io/) research team aiming to make further exploration in Meta-Black-Box optimization.
+I am an incoming PhD student at the University of Toronto. I am currently a senior undergrad student in the School of Computer Science and Technology, South China University of Technology. I am honored to be advised by [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ), and fortunate to work closely with [Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=en) and Hongshu Guo. We co-founded [MetaEvo](https://metaevo.github.io/) research team aiming to make further exploration in Meta-Black-Box optimization.
 
 I was an [SURF](https://www.sfp.caltech.edu/undergraduate-research/programs/surf) fellow in [Computing + Mathematical Sciences (CMS)](https://www.cms.caltech.edu/) Department at Caltech, where I am honored to be advised by [Prof. Yisong Yue](http://www.yisongyue.com/) and [Dr. Kaiyu Yang](https://yangky11.github.io/) and work on AI4Math research project.
 
@@ -43,8 +43,9 @@ My research interests include，
 
 [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/pdf/2505.22617)
 
-Ganqu Cui*, Yuchen Zhang*, **Jiacheng Chen***, Lifan Yuan, Zhi Wang, Yuxin Zuo, Haozhan Li, Yuchen Fan, Huayu Chen, Weize Chen, Zhiyuan Liu, Hao Peng, Lei Bai, Wanli Ouyang, Yu Cheng, Bowen Zhou, Ning Ding.
+Ganqu Cui\*, Yuchen Zhang\*, **Jiacheng Chen***, Lifan Yuan, Zhi Wang, Yuxin Zuo, Haozhan Li, Yuchen Fan, Huayu Chen, Weize Chen, Zhiyuan Liu, Hao Peng, Lei Bai, Wanli Ouyang, Yu Cheng, Bowen Zhou, Ning Ding.
 
+- We conducted empirical and theoretical analysis at “entropy collapse” phenomena, and proposed new way of entropy control.
 
 </div>
 </div>
