@@ -143,7 +143,7 @@ Zeyuan Ma\*, **Jiacheng Chen**\*, Hongshu Guo, Yining Ma, Yue-Jiao Gong.
 <div class='school-box-text' markdown="1">
 - *2025.10 - present*, PhD, Department of Computer Science and Engineering, The Chinese University of Hong Kong.
 </div>
-<div class='school-box-image'><div><img src='images/cuhk.jpg' alt="sym" width="100%"></div></div>
+<div class='school-box-image'><div><img src='images/cuhk.png' alt="sym" width="100%"></div></div>
 </div>
 
 <div class='school-box'> 
