@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiacheng Chen"
-description              : "CS Undergrad in South China University of Technology. "
+description              : "CS PhD in The Chinese University of Hong Kong."
 repository               : "JC-Chen1/JC-Chen1.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiacheng Chen"
   avatar           : "images/cjc.jpg"
-  bio              : "B.S. @ SCUT"
+  bio              : "PhD @ CUHK"
   location         : 
   employer         :
   pubmed           : 

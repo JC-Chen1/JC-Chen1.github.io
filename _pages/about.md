@@ -21,14 +21,13 @@ redirect_from:
 
 Welcome!
 
-I am an incoming PhD student at the University of Toronto. I am currently a senior undergrad student in the School of Computer Science and Technology, South China University of Technology. I am honored to be advised by [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ), and fortunate to work closely with [Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=en) and Hongshu Guo. We co-founded [MetaEvo](https://metaevo.github.io/) research team aiming to make further exploration in Meta-Black-Box optimization.
+I am an PhD student at the CSE department in The Chinese University of Hong Kong, where I am fortunate to be advised by [Prof. Weiyang Liu](https://wyliu.com/) and [Prof. Yu Cheng](https://ych133.github.io/). I also work closely with [Dr. Ganqu Cui](https://cgq15.github.io/) and [Prof. Ning Ding](https://www.stingning.cn/). I received barchelor degree from South China University of Technology, where I was fortunate to be advised by [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ). I was a visiting researcher at Caltech, where I was honored to be advised by [Prof. Yisong Yue](http://www.yisongyue.com/) and [Dr. Kaiyu Yang](https://yangky11.github.io/).
 
-I was an [SURF](https://www.sfp.caltech.edu/undergraduate-research/programs/surf) fellow in [Computing + Mathematical Sciences (CMS)](https://www.cms.caltech.edu/) Department at Caltech, where I am honored to be advised by [Prof. Yisong Yue](http://www.yisongyue.com/) and [Dr. Kaiyu Yang](https://yangky11.github.io/) and work on AI4Math research project.
+<!-- I was an [SURF](https://www.sfp.caltech.edu/undergraduate-research/programs/surf) fellow in [Computing + Mathematical Sciences (CMS)](https://www.cms.caltech.edu/) Department at Caltech, where I am honored to be advised by [Prof. Yisong Yue](http://www.yisongyue.com/) and [Dr. Kaiyu Yang](https://yangky11.github.io/) and work on AI4Math research project. -->
 
 My research interests include，
-- **AI for Math (Formal Theorem Proving; Reasoning; ...)** 
+- **Reasoning in NLP** 
 - **Reinforcement Learning**
-- **Learning to Optimize**
 
 
 # 🔥 News
@@ -142,7 +141,14 @@ Zeyuan Ma\*, **Jiacheng Chen**\*, Hongshu Guo, Yining Ma, Yue-Jiao Gong.
 
 <div class='school-box'> 
 <div class='school-box-text' markdown="1">
-- *2021.09 - present*, School of Computer Science and Technology, South China University of Technology.
+- *2025.10 - present*, PhD, Department of Computer Science and Engineering, The Chinese University of Hong Kong.
+</div>
+<div class='school-box-image'><div><img src='images/cuhk.jpg' alt="sym" width="100%"></div></div>
+</div>
+
+<div class='school-box'> 
+<div class='school-box-text' markdown="1">
+- *2021.09 - 2025.06*, B.E., School of Computer Science and Technology, South China University of Technology.
 </div>
 <div class='school-box-image'><div><img src='images/scut.jpg' alt="sym" width="100%"></div></div>
 </div>
