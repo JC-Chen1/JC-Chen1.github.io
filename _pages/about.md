@@ -31,6 +31,7 @@ My research interests include，
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 <span style="font-size: 1.2em;">We introduce the <span style="color: purple; font-weight: bold;">P1</span> Series! <span style="color: purple; font-weight: bold;">P1</span> is a series of models that designed to tackle Olympiad-level physics reasoning, check the [blog](https://prime-rl.github.io/P1/) for more details!</span>
 - *2025.05*: &nbsp;🎉🎉 Our paper [Entropy Mechanism of Reinforcement Learning for Large Language Model Reasoning](https://arxiv.org/pdf/2505.22617) has released!
 - *2024.05*: &nbsp;🎉🎉 [SYMBOL](https://iclr.cc/virtual/2024/poster/17539) will be presented in ICLR 2024 as a poster!
 - *2023.12*: &nbsp;🎉🎉 [MetaBox](https://neurips.cc/virtual/2023/poster/73497) will be presented in Neurips 2023 as the oral presentation!
