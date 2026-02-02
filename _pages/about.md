@@ -36,7 +36,7 @@ My research interests include，
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview-p1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview-p1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [P1: Mastering Physics Olympiads with Reinforcement Learning](https://arxiv.org/abs/2511.13612)
