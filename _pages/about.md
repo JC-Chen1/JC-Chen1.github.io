@@ -33,10 +33,20 @@ My research interests include，
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 <span style="font-size: 1.2em;">We introduce the <span style="color: purple; font-weight: bold;">P1</span> Series! <span style="color: purple; font-weight: bold;">P1</span> is a series of models that designed to tackle Olympiad-level physics reasoning, check the [blog](https://prime-rl.github.io/P1/) for more details!</span>
 - *2025.05*: &nbsp;🎉🎉 Our paper [Entropy Mechanism of Reinforcement Learning for Large Language Model Reasoning](https://arxiv.org/pdf/2505.22617) has released!
-- *2024.05*: &nbsp;🎉🎉 [SYMBOL](https://iclr.cc/virtual/2024/poster/17539) will be presented in ICLR 2024 as a poster!
-- *2023.12*: &nbsp;🎉🎉 [MetaBox](https://neurips.cc/virtual/2023/poster/73497) will be presented in Neurips 2023 as the oral presentation!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview-p1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[P1: Mastering Physics Olympiads with Reinforcement Learning](https://arxiv.org/abs/2511.13612)
+
+**Jiacheng Chen**\*, Qianjia Cheng\*, Fangchen Yu\*, Haiyuan Wan, Yuchen Zhang, Shenghe Zheng, Junchi Yao, Qingyang Zhang, Haonan He, Yun Luo, Yufeng Zhao, Futing Wang, Li Sheng, Chengxing Xie, Yuxin Zuo, Yizhuo Li, Wenxauan Zeng, Yulun Wu, Rui Huang, Dongzhan Zhou, Kai Chen, Yu Qiao, Lei Bai, Yu Cheng, Ning Ding, Bowen Zhou, Peng Ye, Ganqu Cui.
+
+- More details can be found in our [blog](https://prime-rl.github.io/P1/).
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/entropy-overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,7 +102,7 @@ Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Guojun Peng, Zhiguang Cao, Yining Ma,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/overview-metabox.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning](https://neurips.cc/virtual/2023/poster/73497) (Neurips 2023 Oral)
+[MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning](https://neurips.cc/virtual/2023/poster/73497) (NeurIPS 2023 Oral)
 
 Zeyuan Ma, Hongshu Guo, **Jiacheng Chen**, Zhenrui Li, Guojun Peng, Yue-Jiao Gong, Yining Ma, Zhiguang Cao.
 
