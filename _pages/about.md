@@ -21,9 +21,9 @@ redirect_from:
 
 Welcome!
 
-I am an PhD student at the CSE department in The Chinese University of Hong Kong, where I am fortunate to be advised by [Prof. Yu Cheng](https://ych133.github.io/) and [Prof. Weiyang Liu](https://wyliu.com/). I also work closely with [Dr. Ganqu Cui](https://cgq15.github.io/) and [Prof. Ning Ding](https://www.stingning.cn/). I received barchelor degree from South China University of Technology, where I was fortunate to be advised by [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ). I was a visiting researcher at Caltech, where I was honored to be advised by [Prof. Yisong Yue](http://www.yisongyue.com/) and [Dr. Kaiyu Yang](https://yangky11.github.io/). I currently / previously intern at [MiniMax](https://www.minimax.io/) and [Shanghai AI Lab](https://www.shlab.org.cn/).
+I am an PhD student at the CSE department in The Chinese University of Hong Kong, where I am fortunate to be advised by [Prof. Yu Cheng](https://ych133.github.io/) and [Prof. Weiyang Liu](https://wyliu.com/). I also work closely with [Dr. Ganqu Cui](https://cgq15.github.io/) and [Dr. Pengyu Zhao](https://x.com/zpysky1125?lang=en). I received barchelor degree from South China University of Technology, where I was fortunate to be advised by [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ). I was a visiting researcher at Caltech, where I was honored to be advised by [Prof. Yisong Yue](http://www.yisongyue.com/) and [Dr. Kaiyu Yang](https://yangky11.github.io/). I currently / previously intern at [MiniMax](https://www.minimax.io/) and [Shanghai AI Lab](https://www.shlab.org.cn/). I am contributor of MiniMax M2 series and MiniMax M3. I lead / co-lead [MaxProof](https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution) project at MiniMax and [P1](https://prime-rl.github.io/P1/) project at AILab.
 
-<!-- I was an [SURF](https://www.sfp.caltech.edu/undergraduate-research/programs/surf) fellow in [Computing + Mathematical Sciences (CMS)](https://www.cms.caltech.edu/) Department at Caltech, where I am honored to be advised by [Prof. Yisong Yue](http://www.yisongyue.com/) and [Dr. Kaiyu Yang](https://yangky11.github.io/) and work on AI4Math research project. -->
+
 
 My research interests include，
 - **Reasoning in NLP** 
@@ -41,9 +41,13 @@ My research interests include，
 
 [MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling](https://arxiv.org/abs/2606.13473)
 
-Jiacheng Chen, Xinyu Zhang, Shunkai Zhang, Yanmohan Wang, Lin Li, Tiancheng Qin, Qin Wang, Zhengmao Zhu, Tianle Li, Jingyang Li, Zehan Li, Binyang Jiang, Jin Zhu, Han Ding, Fei Yu, Chenyu Du, Zijian Song, Jiayuan Song, Zhi Zhang, Yunan Huang, Weiyu Cheng, Pengyu Zhao, Yu Cheng.
+**Jiacheng Chen**, Xinyu Zhang, Shunkai Zhang, Yanmohan Wang, Lin Li, Tiancheng Qin, Qin Wang, Zhengmao Zhu, Tianle Li, Jingyang Li, Zehan Li, Binyang Jiang, Jin Zhu, Han Ding, Fei Yu, Chenyu Du, Zijian Song, Jiayuan Song, Zhi Zhang, Yunan Huang, Weiyu Cheng, Pengyu Zhao, Yu Cheng.
 
 - We introduced MaxProof, which reveals the generative verifier RL pipeline used in MiniMax M3 training, and introduce an TTS framework to scale test-time compute.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/overview-p1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
