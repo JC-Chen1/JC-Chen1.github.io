@@ -31,7 +31,7 @@ My research interests include，
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 <span style="font-size: 1.2em;">We introduce the <span style="color: red; font-weight: bold;">MaxProof</span>! <span style="color: red; font-weight: bold;">MaxProof</span> reveals the training pipeline of MiniMax M3 model in the domain of mathematical proof, check the [blog](https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution) for more details!</span>
+- *2026.06*: &nbsp;🎉🎉 <span style="font-size: 1.2em;">We introduce the <span style="color: #f06c6c; font-weight: bold;">MaxProof</span>! <span style="color: #f06c6c; font-weight: bold;">MaxProof</span> reveals the training pipeline of MiniMax M3 model in the domain of mathematical proof, check the [blog](https://www.minimax.io/blog/minimax-maxproof-math-proof-evolution) for more details!</span>
 - *2025.10*: &nbsp;🎉🎉 <span style="font-size: 1.2em;">We introduce the <span style="color: purple; font-weight: bold;">P1</span> Series! <span style="color: purple; font-weight: bold;">P1</span> is a series of models that designed to tackle Olympiad-level physics reasoning, check the [blog](https://prime-rl.github.io/P1/) for more details!</span>
 - *2025.05*: &nbsp;🎉🎉 Our paper [Entropy Mechanism of Reinforcement Learning for Large Language Model Reasoning](https://arxiv.org/pdf/2505.22617) has released!
 
