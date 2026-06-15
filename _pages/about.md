@@ -38,6 +38,18 @@ My research interests include，
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/maxproof.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling](https://arxiv.org/abs/2606.13473)
+
+Jiacheng Chen, Xinyu Zhang, Shunkai Zhang, Yanmohan Wang, Lin Li, Tiancheng Qin, Qin Wang, Zhengmao Zhu, Tianle Li, Jingyang Li, Zehan Li, Binyang Jiang, Jin Zhu, Han Ding, Fei Yu, Chenyu Du, Zijian Song, Jiayuan Song, Zhi Zhang, Yunan Huang, Weiyu Cheng, Pengyu Zhao, Yu Cheng.
+
+- We introduced MaxProof, which reveals the generative verifier RL pipeline used in MiniMax M3 training, and introduce an TTS framework to scale test-time compute.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/entropy-overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
